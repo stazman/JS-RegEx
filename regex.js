@@ -1,3 +1,5 @@
+
+
 /*
 
 Sample String
@@ -33,7 +35,7 @@ Expected Output:
 
 
 
-let phoneReg = /\d{3}-\d{3}-\d{4}/g
+let phoneReg = //
 
 console.log(sampleApp.match(phoneReg))
 /*
@@ -56,7 +58,7 @@ Expected Output:
 
 
 
-let emailReg = /[a-z][0-9]@[a-z][0-9].[a-z]{2,3}/i
+let emailReg = //
 
 console.log(sampleApp.match(emailReg))
 /*
